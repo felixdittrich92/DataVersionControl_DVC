@@ -1,2 +1,6 @@
 # DataVersionControl_DVC
-Testing
+
+```
+pip3 install "dvc[s3]" #[all]
+dvc init
+```
